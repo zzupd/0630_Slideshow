@@ -26,7 +26,7 @@ div#slide {    /* 이미지 1개의 크기를 적용 */
 
     margin: 0 auto;
 
-    overflow: hidden;      /* 부모요소 영역보다 더 큰
+   /* overflow: hidden; */     /* 부모요소 영역보다 더 큰
                                     자식요소의 범람한 외부영역을
                                     숨겨줌*/
 }
